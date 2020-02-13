@@ -2,4 +2,4 @@
 Different Methods of Fibonacci
 
 RUNTIME DIFFERENCES OF EACH METHOD
-![](downloads/Fibonacci(graph).png)
+![](downloads/Fibonacci.png)
