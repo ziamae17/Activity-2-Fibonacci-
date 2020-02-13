@@ -61,7 +61,7 @@ for x in range(0, 25):
 
 plt.plot(items, runtime1, label = "Fib1 (Recursive)")
 plt.plot(items, runtime2, label = "Fib2 (Iterative)")
-plt.plot(items, runtime3, label = "Fib3 (Space Optimization)")
+plt.plot(items, runtime3, label = "Fib3 (Improvized)")
 plt.xlabel("Fibonacci Value")
 plt.ylabel("Runtime(time/seconds)")
 plt.title("Runtime Differences Between Different Methods of Fibonacci")
